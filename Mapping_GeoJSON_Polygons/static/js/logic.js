@@ -34,7 +34,7 @@ let torontoHoods = "https://raw.githubusercontent.com/michaelberg1005/Mapping_Ea
 // Create a style for the lines.
 let myStyle = {
 	color: "#ffffa1",
-	weight: 2
+	weight: 1
 }
 
 // Grabbing our GeoJSON data.
